@@ -1,4 +1,0 @@
-[console_scripts]
-sticker-download-thumbnails = sticker.download_thumbnails:cmd
-sticker-import = sticker.stickerimport:cmd
-sticker-pack = sticker.pack:cmd
