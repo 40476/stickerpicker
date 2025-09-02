@@ -1,6 +1,7 @@
 {
   "packs": [
     "mems.json",
+    "pepe.json",
     "vampire_girl/pack.json"
   ]
 }
